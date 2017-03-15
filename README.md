@@ -7,3 +7,5 @@ Initial phase:
 1. Welcome page, Help and About pages
 2. List of all projects(there is no project - doesn't matter right now) and list of users
 3. CRUD for project, user models and related pages(for now without actual working with database, only MVC)
+4. Admin page sketch(with main settings links)
+5. Repository page(links for repo settings, contributors, commits etc )
